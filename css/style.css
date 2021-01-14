@@ -1,0 +1,30 @@
+h1{
+
+                 font-size: 45px;
+                  
+}
+.name-highlight{
+                 color: orangered
+
+}
+.name-highlight-2{
+                 color: blue;
+}
+.half-width{
+                 width: 45%;
+                 float: left;
+                 margin-left: 4%;
+                 padding-left: 2%;
+}
+.half-width img{
+                 width: 100%;
+
+
+}
+.card-footer{
+                 width: 45%;
+                 float: right;
+}
+.panda-slide .carousel-item{
+                 background-color: lightpink;
+}
